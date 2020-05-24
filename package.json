@@ -78,7 +78,7 @@
     "webpack-cli": "3.3.11"
   },
   "dependencies": {
-    "algoliasearch": "^3.35.1",
+    "algoliasearch": "^4.0.0",
     "autocomplete.js": "^0.37.0",
     "events": "^3.0.0",
     "insert-css": "^2.0.0"
